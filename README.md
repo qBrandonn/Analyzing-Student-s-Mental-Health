@@ -1,1 +1,2 @@
-# Analyzing-Student-s-Mental-Health
+# Analyzing-Student-Mental-Health
+I explored and analyzed the students' data to see how the length of stay at an International University in Japan impacted the average mental health diagnostic scores of the international students present in the study. After the analysis, I concluded that the length of stay indeed does impact the average mental health scores of the international students due to the trend of the scores increasing as time went on.<img width="945" height="522" alt="image" src="https://github.com/user-attachments/assets/13f49039-8d49-4c68-8b6e-8c7a99c41b57" />
